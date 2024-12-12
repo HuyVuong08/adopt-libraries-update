@@ -1,0 +1,10 @@
+"Find Update","Unexpected Updates","Accept BugFixes","Accept Big Update","Why postpone important updates?","Breaking Changes","Resolve issues","Why Delay Updating","Potential Breaking Changes Cause Delay Updating Code"
+> 3 months,Yes,No,No,I don't need new features from the new updates. That's why I'm staying at the current version.,Monthly,I tried to install old version of the library to resolve the issues,"I do not need new features added by the new updates; therefore, I would not fixing the code if the code does not break.",Yes
+> 3 months,Yes,No,No,I don't feel the need and sometimes I might prefer the current version,> 3 months,Adjust the code to make the method more compatible or search for the old version elsewhere ,No imminent needs ,No
+> 3 months,Yes,Yes,No,I just don't need it,Monthly,,,Yes
+> 3 months,Yes,Yes,Yes,,> 3 months,I look up StackOverflow or ChatGPT or the communities that use such dependencies,,Yes
+Monthly,Yes,No,Yes,,> 3 months,identify it and fix it,resource and the risk,Yes
+> 3 months,Yes,No,Yes,,> 3 months,debug the break point and resolve the issue,"going through documentation, all the dependent functions",Yes
+> 3 months,Yes,No,Yes,,> 3 months,debug the break point and resolve the issue,"going through documentation, all the dependent functions",Yes
+Monthly,Yes,No,Yes,,> 3 months,debug the break point and resolve the issue,"going through documentation, all the dependent functions",Yes
+Once every 2 weeks,Yes,Yes,Yes,,> 3 months,see what's wrong and fix it,"going through documentation, all the dependent functions",Yes
